@@ -1,0 +1,15 @@
+{
+  "name": "confusion",
+  "displayName": "confusion",
+  "expo": {
+    "name": "confusion",
+    "slug": "confusion",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "useNextNotificationsApi": true
+    }
+  }
+}
